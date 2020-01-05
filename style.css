@@ -1,0 +1,374 @@
+@import "reset.css";
+
+.circle1{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 30px;
+  top: 40px;
+}
+.circle1:hover {
+filter: hue-rotate(125deg);
+}
+
+.circle2{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 30px;
+  top: 280px;
+}
+.circle2:hover {
+filter: hue-rotate(245deg);
+}
+
+.circle3{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 30px;
+  top: 520px;
+}
+.circle3:hover {
+filter: hue-rotate(148deg);
+}
+
+.circle4{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 30px;
+  top: 760px;
+}
+
+.circle4:hover {
+filter: hue-rotate(56deg);
+}
+.circle5{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 30px;
+  top: 1000px;
+}
+.circle5:hover {
+filter: hue-rotate(185deg);
+}
+
+.circle6{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 30px;
+  top: 1240px;
+}
+
+.circle6:hover {
+filter: hue-rotate(75deg);
+}
+
+.circle7{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 30px;
+  top: 1480px;
+}
+.circle7:hover {
+filter: hue-rotate(166deg);
+}
+
+.circle8{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 270px;
+  top: 40px;
+}
+
+.circle8:hover {
+filter: hue-rotate(295deg);
+}
+
+.circle9{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 270px;
+  top: 280px;
+}
+
+.circle9:hover {
+filter: hue-rotate(105deg);
+}
+
+.circle10{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 270px;
+  top: 520px;
+}
+.circle10:hover {
+filter: hue-rotate(75deg);
+}
+
+.circle11{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 270px;
+  top: 760px;
+}
+
+.circle11:hover {
+filter: hue-rotate(190deg);
+}
+.circle12{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 270px;
+  top: 1000px;
+}
+
+.circle12:hover {
+filter: hue-rotate(89deg);
+}
+
+.circle13{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 270px;
+  top: 1240px;
+}
+
+.circle13:hover {
+filter: hue-rotate(145deg);
+}
+.circle14{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 270px;
+  top: 1480px;
+}
+.circle14:hover {
+filter: hue-rotate(263deg);
+}
+
+.circle15{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 510px;
+  top: 40px;
+}
+
+.circle15:hover {
+filter: hue-rotate(335deg);
+}
+
+.circle16{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 510px;
+  top: 280px;
+}
+.circle16:hover {
+filter: hue-rotate(175deg);
+}
+
+.circle17{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 510px;
+  top: 520px;
+}
+
+.circle17:hover {
+filter: hue-rotate(299deg);
+}
+.circle18{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 510px;
+  top: 760px;
+}
+
+.circle18:hover {
+filter: hue-rotate(325deg);
+}
+.circle19{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 510px;
+  top: 1000px;
+}
+
+.circle19:hover {
+filter: hue-rotate(65deg);
+}
+.circle20{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 510px;
+  top: 1240px;
+}
+
+.circle20:hover {
+filter: hue-rotate(305deg);
+}
+.circle21{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 510px;
+  top: 1480px;
+}
+
+.circle21:hover {
+filter: hue-rotate(75deg);
+}
+.circle22{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 750px;
+  top: 40px;
+}
+
+.circle22:hover {
+filter: hue-rotate(285deg);
+}
+.circle23{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 750px;
+  top: 280px;
+}
+
+.circle23:hover {
+filter: hue-rotate(145deg);
+}
+.circle24{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 750px;
+  top: 520px;
+}
+
+.circle24:hover {
+filter: hue-rotate(105deg);
+}
+
+.circle25{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 750px;
+  top: 760px;
+}
+
+.circle25:hover {
+filter: hue-rotate(45deg);
+}
+
+.circle26{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 750px;
+  top: 1000px;
+}
+
+.circle26:hover {
+filter: hue-rotate(305deg);
+}
+
+.circle27{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 750px;
+  top: 1240px;
+}
+
+.circle27:hover {
+filter: hue-rotate(95deg);
+}
+.circle28{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: blue;
+  left: 750px;
+  top: 1480px;
+}
+
+.circle28:hover {
+filter: hue-rotate(45deg);
+}
